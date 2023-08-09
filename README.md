@@ -1,10 +1,8 @@
 Olá!
 
-Meu nome é <strong>Marcos Gonçalves Teixeira</strong>, sou estudante de Engenharia de Computação na Universidade Federal de Santa Catarina.
+Meu nome é <strong>Marcos Gonçalves Teixeira</strong>, sou estudante de Tecnologia da Informação e Comunicação(TIC) na Universidade Federal de Santa Catarina.
 
-Estou constantemente aprimorando meus conhecimentos, meu foco atual é Desenvolvimento Web.
-
-Front-End e Back-End
+Estou constantemente aprimorando meus conhecimentos.
 
    ~
 
@@ -19,6 +17,10 @@ Front-End e Back-End
 <li>HTML 5</li>
 <li>CSS 3</li>
 <li>jQuery</li>
+<li>JAVA</li>
+<li>Object Pascal</li>
+<li>C</li>
+<li>C++</li>
 </ul>
 
 <strong>Contato</strong><br><br>
