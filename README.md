@@ -4,19 +4,8 @@ Meu nome é <strong>Marcos Gonçalves Teixeira</strong>, sou estudante de Tecnol
 
 Estou constantemente aprimorando meus conhecimentos.
 
-   ~
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24" height="24"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24" height="24"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24" height="24"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="24" height="24">
-
 <ul>Tecnologias ~
-<li>React</li>
 <li>JavaScript</li>
-<li>BootStrap</li>
-<li>HTML 5</li>
-<li>CSS 3</li>
-<li>jQuery</li>
 <li>JAVA</li>
 <li>Object Pascal</li>
 <li>C</li>
